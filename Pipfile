@@ -10,7 +10,7 @@ pylint = "*"
 django-tastypie = "*"
 gunicorn = "*"
 whitenoise = "*"
-django = "==2.1"
+django = "==2.2.13"
 
 [requires]
 python_version = "3.7"
